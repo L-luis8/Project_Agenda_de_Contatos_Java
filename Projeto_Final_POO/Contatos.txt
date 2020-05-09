@@ -1,0 +1,7 @@
+Luis;Rafael Fernandes;Informática;12/12/1999;(84)3358-2323;(84)9915-4027;
+Natan;Alexandria;ADS;12/06/1997;(84)3358-2939;(84)9913-9535;
+Jackeline;Rafael Fernandes;ADS;16/10/1997;(11)1111-1111;(22)2222-2222;
+Alan Klinger;Macau;Informatica;11/12/1997;(84)3358-3442;(84)9915-4027;
+Raphael Muniz;Mossoró;Ciencia da Computação;12/04/1996;(84)3358-3442;(84)9915-4027;
+Leandro Luttiane;Natal;Engenharia Elétrica;02/05/1992;(84)3358-3443;(84)9915-4027;
+Aluísio Igor;Natan;CORD. ADS;05/02/1990;(84)2299-4395;(84)9910-4473;
